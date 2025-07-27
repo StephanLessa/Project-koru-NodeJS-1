@@ -25,6 +25,6 @@ else if (nota >= 60) {
 else if (nota >= 50) {
     console.log("E");
 }
-else (nota >= 40) {
-    console.log("F")
+else if (nota >= 40) {
+    console.log("F");
 }
